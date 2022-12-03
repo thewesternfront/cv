@@ -1,0 +1,30 @@
+
+
+body {
+    background-color: #EAF6F6;
+}
+
+
+hr {
+    background-color: #ffffff;
+    border-style: dotted none none;
+    border-color: gray;
+    border-width: 8px;
+    height: 0px;
+    width: 5%;
+
+}
+
+
+img {
+    height: 150px;
+}
+
+
+/* Change the color of the h1 and h3 text */
+h1 {
+    color: #66BFBF;
+}
+h3 {
+    color: #66BFBF;
+}
